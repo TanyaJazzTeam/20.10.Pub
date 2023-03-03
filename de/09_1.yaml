@@ -3,7 +3,7 @@ my:
   cake:
     composition:
       dough:
-      - Eier
+      - Eier p
       - Zucker
       - Mehl
       cream:
